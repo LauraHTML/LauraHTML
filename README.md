@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LauraHTML
 - 👀 I’m interested in learning game development
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ¯\_(ツ)_/¯
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: (●'◡'●)
