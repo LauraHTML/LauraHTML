@@ -1,0 +1,42 @@
+/* inter */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+/* instrument serif */
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+:root{
+    --rosa:#F394D3;
+    --amarelo: #FFD83C;
+    --azul: #82A1FF;
+    --verde: #0B9391;
+    --vermelho: #F51010;
+    --branco: #FFFFFF;
+    --preto: #000000;
+    --button-font:"Instrument Serif", serif;
+    --button-style:normal;
+}
+
+h3{
+    font-family: "Inter", serif;
+    font-optical-sizing: auto;
+    font-weight: 700 !important;
+    font-style: normal;
+    color: var(--branco) !important;
+    margin: 0 !important;
+    font-size: 1.4rem !important;
+}
+
+h1{
+    font-family: "Inter", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    margin: 0;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+p{
+    margin: 0 !important;
+}

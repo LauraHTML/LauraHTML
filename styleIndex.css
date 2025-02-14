@@ -1,0 +1,110 @@
+
+
+body{
+    margin: 0;
+    background-color: var(--rosa) !important;
+}
+
+.nav_bar{
+    height: auto;
+    padding: 2vw;
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--rosa);
+    align-items: center;
+}
+
+.nav_content{
+    display: flex;
+    gap: 4vw;
+    align-items: center;
+}
+
+.nav_content a{
+    color: var(--branco) !important;
+}
+
+.nav_bar .logo{
+    height: fit-content;
+}
+
+.nav_bar .log_in{
+    height: fit-content;
+    padding: 1vh 5vh;
+    border-radius: 10vh;
+    background-color: var(--verde) !important;
+    font-family: var(--button-font);
+    font-weight: 700;
+    font-style: var(--button-style);
+    font-size: 1.3rem;
+}
+
+.destaque{
+    text-align: center;
+    color: var(--branco);
+    word-wrap: break-word;
+    margin: 0 !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 20vh;
+}
+
+#book{
+    font-family: "Inter", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: italic;
+}
+#lovers{
+    font-family: "Instrument Serif", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.cadastro{
+    padding: 1vh 5vh;
+    font-family: var(--button-font) !important;
+    font-style: var(--button-style);
+    font-weight: 700;
+    font-size: 1.3rem;
+    color: var(--branco);
+    background-color: transparent;
+    border: var(--branco) 0.5vh solid;
+    border-radius: 10vh;
+}
+
+.blog{
+    display: flex;
+    flex-direction: column;
+    gap: 3vh;
+    width: 50%;
+}
+
+.pri_postagem{
+    height: 30vh;
+    width: 40%;
+    padding: 2vh;
+    background-color: var(--vermelho);
+}
+
+.seg_postagem{
+    height: 30vh;
+    width: 70%;
+    padding: 2vh;
+    background-color: var(--azul);
+}
+
+.ter_postagem{
+    height: 30vh;
+    width: 60%;
+    padding: 2vh;
+    background-color: var(--amarelo);
+}
+
+.quar_postagem{
+    height: 30vh;
+    width: 100%;
+    padding: 2vh;
+    background-color: var(--verde);
+}
