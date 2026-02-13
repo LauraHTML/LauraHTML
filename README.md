@@ -1,12 +1,6 @@
 
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
 <h1 align="center">Sobre mim 👋</h1>
+<link align="center" href="https://www.linkedin.com/in/laura-sampaio-996222332/"><button style="background-color:blue">Linkedin</button></link>
 
 <p align="left">🎓 Técnica em Análise e Desenvolvimento de Sistemas  <br><br>
  💻 Estou começando meu curso em engenharia de software<br>💻No momento eu estou criando novos projetos<br>💻 Focada em desenvolvimento Full-Stack  </p>
